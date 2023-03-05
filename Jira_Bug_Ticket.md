@@ -17,7 +17,9 @@ INT Version: 720.2022.20525.2631
 
 4. See my attachment
 
-[issue.jpg]
+<a href="./issue.jpg"><img src="./issue.jpg" align="left" width="648" ></a>
+
+##
 
 
 ## Actual result:
