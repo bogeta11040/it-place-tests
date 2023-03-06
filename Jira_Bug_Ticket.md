@@ -11,7 +11,7 @@ INT Version: 720.2022.20525.2631
 
 1. Open it-place.si portal
 
-2. Click on "Vse plače" link in the top menu bar
+2. Click on "PLAČE" link in the top menu bar
 
 3. Observe contents under the "Vse plače" headline
 
