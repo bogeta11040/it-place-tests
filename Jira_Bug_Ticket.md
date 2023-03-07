@@ -1,11 +1,11 @@
-# ITPLACE INT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 
 ## URL/Environment:
 
-https://int.it-place.si/
+https://it-place.si/
 
-INT Version: 720.2022.20525.2631
+PROD Version: 720.2022.20525.2631
 
 ## Reproduction steps:
 
