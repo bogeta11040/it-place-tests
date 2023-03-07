@@ -1,1 +1,1 @@
-# it-place-tests
+# it-place.si Test Cases and Test Plan
