@@ -31,10 +31,6 @@ No salaries are displayed and page is not fully loaded (footer is not displayed 
 
 Page is properly displayed and salaries are listed in correct order. 
 
-## Note 1:
+## Note:
 
 Functionality is tested on Chrome, Firefox, Edge and Safari web browsers.
-
-## Note 2:
-
-Salaries are normally displayed on other pages.
