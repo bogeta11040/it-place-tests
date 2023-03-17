@@ -1,5 +1,6 @@
 # ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
+<i>This ticket is in the "Assigned" status.</i>
 
 ## URL/Environment:
 
