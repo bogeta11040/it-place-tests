@@ -3,5 +3,5 @@
 Test Cases.xlsx - TCs for three scenarios  
 
 Test Plan.pdf - Test plan document  
-Jira_Bug_Ticket - Newly opened bug ticket  
+Jira_Bug_Ticket.md - Newly opened bug ticket  
 
