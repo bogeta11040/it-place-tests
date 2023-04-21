@@ -49,6 +49,48 @@ Functionality is tested on Chrome, Firefox, Edge and Safari web browsers.
 
 # ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
+<i>This ticket is in the "In Testing" status. I changed the assignee to myself.</i>
+
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+
+<i>Fix is not verified, I'm leaving a comment:</i>
+
+<b>Hi all,
+
+Fix not verified on:
+
+INT Version: 721.2022.20525.2765 (1.1)
+
+https://int.it-place.si/place.php
+
+Salaries are not displayed on the salaries page.
+
+[notverified.png]
+   
+Note:
+   
+Page is fully loaded and footer is visible.
+   
+[note.png]
+
+Regards,
+
+   <i>Tagged DEV</i></b>
+
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+
+<i>This ticket is in the "In Progress" status. I assigned it to dev.</i>
+
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+
+<i>This ticket is in the "Testing" status.</i>
+
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+
+<i>This ticket is in the "In Testing" status. I changed the assignee to myself.</i>
+
+# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+
 <i>Changed status to "Verified" and then "Closed". Leaving additional comment:</i>
 
 <b>Hi all,
