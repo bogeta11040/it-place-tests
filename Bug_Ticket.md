@@ -4,7 +4,7 @@
 
 ## URL/Environment:
 
-https://it-place.si/
+https://uat.it-place.si/
 
 UAT Version: 720.2022.20525.2631
 
