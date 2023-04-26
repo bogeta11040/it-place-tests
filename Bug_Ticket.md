@@ -1,4 +1,4 @@
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "To Do" status. It's a major bug.</i>
 
@@ -6,7 +6,7 @@
 
 https://it-place.si/
 
-PROD Version: 720.2022.20525.2631
+UAT Version: 720.2022.20525.2631
 
 ## Reproduction steps:
 
@@ -35,23 +35,23 @@ Page is properly displayed and salaries are listed in correct order.
 
 Functionality is tested on Chrome, Firefox, Edge and Safari web browsers.
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "Assigned" status. Development team reviewed it and determined its prirority.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "In Progress" status. Developer is working on it.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "Testing" status. No new issues are found during prior review.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "In Testing" status. I changed the assignee to myself.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>Fix is not verified, I'm leaving a comment:</i>
 
@@ -77,19 +77,19 @@ Regards,
 
    <i>Tagged DEV</i></b>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "In Progress" status. I assigned it to dev.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "Testing" status.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>This ticket is in the "In Testing" status. I changed the assignee to myself.</i>
 
-# ITPLACE PROD - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
+# ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
 
 <i>Changed status to "Verified" and then "Closed". Leaving additional comment:</i>
 
