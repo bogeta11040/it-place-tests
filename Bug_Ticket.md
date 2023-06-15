@@ -33,6 +33,21 @@ Page is properly displayed and salaries are listed in correct order.
 
 ## Note:
 
+As this is a backend issue, I'm attaching except from the logs file:
+
+```
+Stack trace:
+#0 {main}
+  thrown in /home/itplaces/public_html/place.php on line 461
+[15-Jun-2023 02:20:25 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/itplaces/public_html/place.php:367
+Stack trace:
+#0 /home/itplaces/public_html/place.php(367): mysqli_stmt->bind_param('ss', NULL, NULL)
+#1 {main}
+  thrown in /home/itplaces/public_html/place.php on line 367
+```
+
+## Note 2:
+
 Functionality is tested on Chrome, Firefox, Edge and Safari web browsers.
 
 # ITPLACE UAT - Vse Plače (All Salaries Page) - No salaries are displayed and page is not fully rendered
@@ -70,6 +85,10 @@ Salaries are not displayed on the salaries page.
 Note:
    
 Page is fully loaded and footer is visible.
+
+Note 2:
+
+No errors are found in the logs file.
    
 [note.png]
 
