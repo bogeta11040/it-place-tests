@@ -33,7 +33,7 @@ Page is properly displayed and salaries are listed in correct order.
 
 ## Note:
 
-As this is a backend issue, I'm attaching except from the logs file:
+As this is a potentional backend issue, I'm attaching except from the logs file:
 
 ```
 Stack trace:
